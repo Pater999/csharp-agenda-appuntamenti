@@ -1,0 +1,38 @@
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\bin\Debug\AgendaConForm.exe.config
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\bin\Debug\AgendaConForm.exe
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\bin\Debug\AgendaConForm.pdb
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.Form1.resources
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.Properties.Resources.resources
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.csproj.GenerateResource.Cache
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.exe
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.pdb
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.Form2.resources
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.Form3.resources
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\bin\Debug\Newtonsoft.Json.dll
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\bin\Debug\Newtonsoft.Json.xml
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.csprojAssemblyReference.cache
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.csproj.CoreCompileInputs.cache
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.csproj.CopyComplete
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\bin\Debug\AgendaConForm.exe.manifest
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\bin\Debug\AgendaConForm.application
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.exe.manifest
+E:\Documenti\Scuola\Informatica\Esercizi Informatica 2017\AgendaConForm\AgendaConForm\obj\Debug\AgendaConForm.application
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\bin\Debug\AgendaConForm.exe.config
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\bin\Debug\AgendaConForm.exe.manifest
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\bin\Debug\AgendaConForm.application
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\bin\Debug\AgendaConForm.exe
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\bin\Debug\AgendaConForm.pdb
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\bin\Debug\Newtonsoft.Json.dll
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\bin\Debug\Newtonsoft.Json.xml
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.csprojAssemblyReference.cache
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.Form1.resources
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.Form2.resources
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.Form3.resources
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.Properties.Resources.resources
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.csproj.GenerateResource.cache
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.csproj.CoreCompileInputs.cache
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.exe.manifest
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.application
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.csproj.CopyComplete
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.exe
+C:\Users\matti\Desktop\Nuova cartella\agenda-appuntamenti\AgendaConForm\obj\Debug\AgendaConForm.pdb

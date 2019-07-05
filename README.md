@@ -1,2 +1,2 @@
-# csharp-agenda-appuntamenti
-Csharp appointment agenda using windows form.
+# agenda-appuntamenti
+C# and Windows From - Appointment agenda 
